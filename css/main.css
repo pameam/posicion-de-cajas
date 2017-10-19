@@ -1,0 +1,54 @@
+
+.red{
+  background: red;
+  float: left;
+  padding: 120px;
+
+}
+.yellow{
+  position: relative;
+  background: purple;
+  float: left;
+  margin-top: 80px;
+  margin-left: -240px;
+  padding: 40px;
+}
+.purple{
+  position: relative;
+  background: yellow;
+  float: left;
+  margin-top: 80px;
+  margin-left: -240px;
+}
+.box{
+  position: relative;
+  height: 80px;
+  width: 80px;
+}
+.caja4{
+  position: relative;
+  background: blue;
+  float: left;
+  padding: 120px;
+  margin-top: 350px;
+  margin-left: -320px
+}
+.caja5{
+  position: relative;
+  background: green;
+  float: left;
+  margin-top: 430px;
+  margin-left: -240px;
+  padding: 40px;
+}
+.caja6{
+  position: relative;
+  background: black;
+  float: left;
+  margin-top: 350px;
+  margin-left: -320px
+}
+.box1{
+  height: 80px;
+  width: 80px;
+}
